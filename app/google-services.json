@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366761989905",
+    "project_id": "notes-690f3",
+    "storage_bucket": "notes-690f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366761989905:android:b827cd625088ecccef1eb0",
+        "android_client_info": {
+          "package_name": "com.ibnandrey.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-KXaXrMW12dtMv_bHSsuinR0qifnhz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
